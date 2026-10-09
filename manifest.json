@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "LeastLoadedEP",
+  "versions": [
+    {
+      "commit": "411138bc1afae4e7c568c92cb9c55926701794a9",
+      "parsed_at": "2026-10-09T13:09:33.919335+00:00",
+      "filetree": "filetree/411138bc1afae4e7c568c92cb9c55926701794a9.nq.gz",
+      "blobs": [
+        "blob/a3ce096ab347d45f52762f1f793f045c84a03942.nq.gz",
+        "blob/747aef9d6aefc9c4705a90efe094cfee33584e66.nq.gz",
+        "blob/c23a2b7a646b02a52cd17d10e5d88547507426f5.nq.gz",
+        "blob/39f86ad6c0f9ba97d3fb12cfeb0e8d2288e9008e.nq.gz",
+        "blob/e9f8b00c00ecad814753d58e98ae1e43aaa49712.nq.gz",
+        "blob/0148ea060ee130961af8883910dd5c742ebb3a99.nq.gz",
+        "blob/dd7680688c41c4da76034544d7bda70515ed7b54.nq.gz",
+        "blob/42466c829fc4d3b274eca9d2ce1cab2173fcd805.nq.gz",
+        "blob/de629e9f39d418866a4109e757697fc17cc4c1c0.nq.gz",
+        "blob/2eb6a977206dcaf08cb20af7e811bc9a0387f66b.nq.gz",
+        "blob/b4612a7bc59f0b1770675cc2857d866fe41a9a31.nq.gz",
+        "blob/3ec50bb7c7e163982237699723a47ee18cc1ceee.nq.gz",
+        "blob/e31774df287d3b91b508341475a7cf26e146aa2d.nq.gz",
+        "blob/089a7851a40e433f9fd32ced3de02fe0bc2e2e62.nq.gz",
+        "blob/a71606dc5b30efd8cc1554624aa93a9b9a36d13b.nq.gz",
+        "blob/c139a724672ab7e7405f9ce7717f219fee67b2a5.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/533f8f66eb5d334f57d7f9f7aa6aa2e4fbfb75e5.nq.gz",
+        "blob/42750d756042796e6820edd4345c382450d0877d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
